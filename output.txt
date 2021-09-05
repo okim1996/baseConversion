@@ -1,0 +1,207 @@
+oscarkim32@Oscars-MacBook-Air baseConversion % bash run.sh 
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+1111
+
+ Binary : 0001000100010001
+ Octal : 010421
+ Base 10 : 4369
+ Hexadecimal : 01111
+
+
+ Binary : 10001010111
+ Octal : 2127
+ Base 10 : 1111
+ Hexadecimal : 457
+
+
+ Binary : 001001001001
+ Octal : 01111
+ Base 10 : 585
+ Hexadecimal : 0249
+
+
+ Binary : 1111
+ Octal : 17
+ Base 10 : 15
+ Hexadecimal : 0F
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+a2527
+
+ Binary : 10100010010100100111
+ Octal : 2422447
+ Base 10 : 664871
+ Hexadecimal : 0A2527
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+aaaa
+
+ Binary : 1010101010101010
+ Octal : 125252
+ Base 10 : 43690
+ Hexadecimal : 0AAAA
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+9999
+
+ Binary : 1001100110011001
+ Octal : 114631
+ Base 10 : 39321
+ Hexadecimal : 09999
+
+
+ Binary : 10011100001111
+ Octal : 23417
+ Base 10 : 9999
+ Hexadecimal : 270F
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+100000
+
+ Binary : 000100000000000000000000
+ Octal : 004000000
+ Base 10 : 1048576
+ Hexadecimal : 0100000
+
+
+ Binary : 11000011010100000
+ Octal : 303240
+ Base 10 : 100000
+ Hexadecimal : 186A0
+
+
+ Binary : 001000000000000000
+ Octal : 0100000
+ Base 10 : 32768
+ Hexadecimal : 08000
+
+
+ Binary : 100000
+ Octal : 040
+ Base 10 : 32
+ Hexadecimal : 20
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+213ae
+
+ Binary : 00100001001110101110
+ Octal : 0411656
+ Base 10 : 136110
+ Hexadecimal : 0213AE
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+9429
+
+ Binary : 1001010000101001
+ Octal : 112051
+ Base 10 : 37929
+ Hexadecimal : 09429
+
+
+ Binary : 10010011010101
+ Octal : 22325
+ Base 10 : 9429
+ Hexadecimal : 24D5
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+4096
+
+ Binary : 0100000010010110
+ Octal : 040226
+ Base 10 : 16534
+ Hexadecimal : 04096
+
+
+ Binary : 1000000000000
+ Octal : 10000
+ Base 10 : 4096
+ Hexadecimal : 1000
+
+
+ Binary : 100000001110
+ Octal : 04016
+ Base 10 : 2062
+ Hexadecimal : 080E
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+1024
+
+ Binary : 0001000000100100
+ Octal : 010044
+ Base 10 : 4132
+ Hexadecimal : 01024
+
+
+ Binary : 10000000000
+ Octal : 2000
+ Base 10 : 1024
+ Hexadecimal : 400
+
+
+ Binary : 001000010100
+ Octal : 01024
+ Base 10 : 532
+ Hexadecimal : 0214
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+ae21
+
+ Binary : 1010111000100001
+ Octal : 127041
+ Base 10 : 44577
+ Hexadecimal : 0AE21
+
+
+Please enter any binary , octal , base 10 , or hexadecimal number!
+We do not accept signed values!
+Beware if you enter a value too large the base 10 conversion may overflow!
+3333
+
+ Binary : 0011001100110011
+ Octal : 031463
+ Base 10 : 13107
+ Hexadecimal : 03333
+
+
+ Binary : 110100000101
+ Octal : 06405
+ Base 10 : 3333
+ Hexadecimal : 0D05
+
+
+ Binary : 011011011011
+ Octal : 03333
+ Base 10 : 1755
+ Hexadecimal : 06DB
+
+
+oscarkim32@Oscars-MacBook-Air baseConversion % 
